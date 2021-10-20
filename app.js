@@ -1,1 +1,1 @@
-console.log "Modificacion.app"
+console.log ;"Modificacion.app"
